@@ -39,6 +39,7 @@ main {
 nav ul {
     display: flex;  
     justify-content: flex-start;
+    flex-wrap: wrap;
     max-width: 900px;
     margin: 0 auto;
     padding: 0 1rem;
